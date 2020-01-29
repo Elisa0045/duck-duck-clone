@@ -3,7 +3,6 @@ body {
   background-color: #f7f7f7;
   margin: 0px;
   padding: 0px;
-  
 }
 
 .container {
@@ -64,11 +63,12 @@ body {
 #feature-1 {
   background-color: #58b792;
 }
-#feature-1 h1 {
+.h1ps {
   color: #ffff;
   font-size: 44px;
+  padding-top: 50px;
 }
-#feature-1 p {
+.ps {
   color: #f7f7f7;
   font-size: 20px;
 }
@@ -85,4 +85,8 @@ body {
   width: 963px;
   height: 344px;
   padding-top: 13%;
+}
+/* Feature 2 */
+#feature-2 {
+  background-color: #f5a339;
 }
