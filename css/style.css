@@ -3,6 +3,7 @@ body {
   background-color: #f7f7f7;
   margin: 0px;
   padding: 0px;
+  
 }
 
 .container {
@@ -39,6 +40,7 @@ body {
 .logo-img {
   width: 250px;
   padding-bottom: 5%;
+  padding-top: 7%;
 }
 
 .input-box {
@@ -56,4 +58,31 @@ body {
   font-size: 18px;
   padding-top: 2%;
   color: #9a9a9a;
+  padding-bottom: 350px;
+}
+/* Feature 1 */
+#feature-1 {
+  background-color: #58b792;
+}
+#feature-1 h1 {
+  color: #ffff;
+  font-size: 44px;
+}
+#feature-1 p {
+  color: #f7f7f7;
+  font-size: 20px;
+}
+.btn1 {
+  color: #f7f7f7;
+  font-weight: bold;
+  font-size: 18px;
+  border-radius: 4px;
+  background: rgba(0, 0, 0, 0.4);
+  margin: 25px 0px 0px;
+  padding: 12px 16px;
+}
+.logo-f1 {
+  width: 963px;
+  height: 344px;
+  padding-top: 13%;
 }
