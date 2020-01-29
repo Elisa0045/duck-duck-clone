@@ -2,21 +2,19 @@
 
 ## WireFrame
 
-> link to your wireframe.cc wireframe. (you can ignore the evaluation buttons in your wireframe)
+> [link WireFrame](https://wireframe.cc/Fiuu52)
 
 ## Steps Plan
 
-> add one row to this table for each user story you define
 
 | _Step Name_ | User Story | Changes in HTML | Changes in CSS |
 | --- | --- | --- | --- |
-| __Live Boilerplate__ | As an enthusiastic HYF student I can navigate to an empty website so that I know the project is set up correctly | An empty template project with `doctype`, language, charset, `head` & `body`, and evaluation script | an empty main `style.css` and an existing evaluation style |
-|  | |  |  |
-| ... | ... | ... | ... |
-| (descriptive name) | (user story) | (what did you add to the HTML?) | (what did you add to the CSS?) |
+| __Header__ | As a student of Hack your Future I want to create the Header, for replicate the web page DuckDuckgo, so that I can start making the project and apply the things that I learn in the week 2, using flexboxgrid and Font-Awesome. | Writing the initial code and then create the header: aad the container, navbar, and I have to use  Felxboxgrid and Font-Awesome for create the buttons. | Styling the color of the buttons and fixing the size, and remove the bullets of the buttons. |
+| __Main search area__ | |  |  |
+| __Feature 1__ | |  |  |
+| __Feature 2__ | |  |  |
+| __Feature 3__ | |  |  |
+| __Feature 4__ | |  |  |
 
 
----
----
 
-### <a href="https://hackyourfuture.be" target="_blank"><img src="https://user-images.githubusercontent.com/18554853/63941625-4c7c3d00-ca6c-11e9-9a76-8d5e3632fe70.jpg" width="100" height="100" alt="Hack Your Future: Belgium"></a>
