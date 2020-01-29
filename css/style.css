@@ -1,0 +1,44 @@
+body {
+  font-family: monospace;
+}
+
+/* Header */
+
+.first-text {
+  color: #495057;
+  padding: 5px;
+  font-size: 20px;
+}
+#main-header .fa {
+  font-size: 25px;
+}
+.nav-bar li {
+  display: inline-block;
+  list-style: none;
+  padding-right: 10px;
+  color: gray;
+}
+.nav-bar a {
+  margin-top: 20px;
+  list-style: none;
+  text-decoration: none;
+  color: #888;
+  text-transform: uppercase;
+}
+
+.nav-bar li.current a,
+.nav-bar a:hover {
+  color: gray;
+
+}
+
+.img {
+  width: 100%;
+}
+.container {
+  margin: auto;
+}
+header li {
+    float: left;
+    display: inline;
+    padding: 0 20px 0 20px;
