@@ -29,7 +29,6 @@ body {
 .nav-bar li.current a,
 .nav-bar a:hover {
   color: gray;
-
 }
 
 .img {
@@ -39,6 +38,15 @@ body {
   margin: auto;
 }
 header li {
-    float: left;
-    display: inline;
-    padding: 0 20px 0 20px;
+  float: left;
+  display: inline;
+  padding: 0 20px 0 20px;
+}
+
+/* Main Search Area */
+
+#search-area a {
+  min-height: 100px;
+  background: url("../img/logo1.svg") no-repeat 0 -400px;
+  text-align: center;
+}
