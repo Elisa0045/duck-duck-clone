@@ -4,7 +4,6 @@ body {
   margin: 0px;
   padding: 0px;
 }
-
 .container {
   margin: auto;
 }
@@ -28,26 +27,20 @@ body {
   color: #888;
   text-transform: uppercase;
 }
-
 .nav-bar li.current a,
 .nav-bar a:hover {
   color: gray;
 }
-
 /* Main Search Area */
-
 .logo-img {
   width: 250px;
   padding-bottom: 5%;
   padding-top: 7%;
 }
-
 .input-box {
   width: 80%;
   height: 30px;
-  
 }
-
 .input-btn {
   position: absolute;
   height: 36px;
@@ -60,7 +53,6 @@ body {
   padding-top: 2%;
   color: #9a9a9a;
   padding-bottom: 350px;
-  
 }
 /* Feature 1 */
 #feature-1 {
@@ -111,7 +103,6 @@ body {
   margin: 25px 0px 0px;
   padding: 12px 16px;
 }
-
 #feature-4 h1 {
   color: #365374;
   font-size: 44px;
@@ -121,7 +112,6 @@ body {
   color: #365374;
   font-size: 20px;
 }
-
 .but2 {
   font-family: monospace;
   color: #365374;
@@ -130,11 +120,8 @@ body {
   border: none;
   cursor: pointer;
   padding-top: 30px;
- 
-  
 }
 #but2 {
   color: #365374;
   background-color: #87cef5;
-  
 }
