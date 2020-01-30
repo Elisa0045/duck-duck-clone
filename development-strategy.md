@@ -14,7 +14,7 @@
 | __Feature 1__ | The user can see basic information about the privacy, and also a button for instal the extension of DuckDuckGo in google chrome. | I add a new section and container, I use flexboxgrid, I add some information text "h1" and "p" I create a button with a href inside, and i add a image.  | Styling the size boxes according to the original web page, layout the contents of the feature 1, the text, the button, the image and the colors.  |
 | __Feature 2__ |The user can see basic information about the history, and also a button for instal the extension of DuckDuckGo in google chrome. |  Add a new section and container, I use flexboxgrid, I add some information text "h1" and "p" I create a button with a href inside, and i add a image. |  Add the background color, and I two new classes for the text h1 and p.|
 | __Feature 3__ | The user can see basic information about the private browsing mode and track, and also a button for instal the extension of DuckDuckGo in google chrome. | Add a new section and container, I use flexboxgrid, I add some information text "h1" and "p" I create a button with a href inside, and i add a image. |  Add the background color |
-| __Feature 4__ | |  |  |
+| __Feature 4__ | The user can see basic information about the privacy , and also a button for instal the extension of DuckDuckGo in google chrome, and two buttons, the "Dismiss forever" button and the "Back to search bottom" help to the user to go back to the search area. |Add a new section and container, I use flexboxgrid, I add some information text "h1" and "p" I create a button with a href inside,i add a image, and i add two new buttons.  | Styling feature-4: pointer, color.  |
 
 
 
